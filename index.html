@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>LA TV Shows | Home</title>
+    <title>Carlo Snap Proj | Home</title>
     <meta name="description" content="A Catalog of Shows Set in Los Angeles">
     <link rel="stylesheet" href="style.css" />
     <script type="text/javascript" src="scripts.js"></script>
@@ -12,6 +12,21 @@
     <header class="main-header">
         <h1 class="title">LA TV Shows</h1>
     </header>
+<!-- 
+    failed code:
+    creates the tabbed header to display each catalog
+    <button class="tab-link" onclick="open-section('Home', this, 'green')"
+    id="default-open">Home</button>
+    <button class="tab-link" onclick="open-section('Travel', this, 'green')">Travel</button>
+    <button class="tab-link" onclick="open-section('Career', this, 'blue')">Career</button>
+    <button class="tab-link" onclick="open-section('Music', this, 'green')">Music</button>
+    <button class="tab-link" onclick="open-section('College Food', this, 'green')">College Food</button>
+
+    <div> id="tabbed-header" class="tab-content"
+        <h1>Home</h1>
+        <p>enter info here</p>
+    </div> -->
+
     <div id="card-container">
         
     </div>
@@ -26,6 +41,7 @@
             </ul>
         </div>
     </div>
+
     <div class="footer">
         <button onclick="quoteAlert();">
             Get A Quote!
@@ -34,6 +50,36 @@
             Remove A Card!
         </button>
     </div>
+    
+    <!-- BST Travel Recommendations -->
+    <header class="main-header">
+        <h1 class="title">Travel</h1>
+    </header>
+
+    <div class="sub-header">
+        <h5>Ready for a Vacation but don't know where to go?</h5>
+        <br>
+        <h5>We'll help you out with our Vacation Recommender!</h5>
+    </div>
+
+    <div class="top-img">
+        <img src="https://images.pexels.com/photos/674783/pexels-photo-674783.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Image of plane">
+    </div>
+
+    <div class="tree-container">
+        <div id="question" class="image-container">
+        </div>
+        <div class="button-container">
+            <button id="opt1">Option 1</button>
+            <button id="opt2">Option 2</button>
+            <button id="restart">Restart</button>
+        </div>
+    </div>
+    
+    <div class="bottom">
+    </div>
+
+
 </body>
 
 </html>

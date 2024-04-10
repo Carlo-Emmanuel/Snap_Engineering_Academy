@@ -1,0 +1,42 @@
+{
+        "NE1res": [
+            {"city": "Recommendation #1: Philadelphia", "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcT_adpTgxUh0m1-hdYlaNlnyFQFNtDKe14TaTeXC4TgNdNjKK2HoWSO-vVLqKuWOR1s"},
+            {"city": "Recommendation #2: Boston", "image": "https://images.pexels.com/photos/776030/pexels-photo-776030.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #3: Jersey City", "image": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRmLXRyiLfEVt1mCoiDy6mjiUHzEx7-rZfyaZILHq7ns0GcFXhC8mbCdPQua3FIw6LG"}
+        ],
+        "NW1res": [
+            {"city": "Recommendation #1: Tacoma", "image": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcToH2QUqDAWkYmHIBXyGEXm98hOViHeD1sZMaSYXolZ3nqLbOgZ8LrjITpG3CAd2p9l"},
+            {"city": "Recommendation #2: Bellingham", "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSEd7WingHCIF5u3E-7R0xkrzUq22ZAO0omGHFGVNqxd2NrrguC7wOQ7rIToRThgFNi"},
+            {"city": "Recommendation #3: Salem", "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcRtrVerZwTA-6lShjcKiVKpADvvdFGWSRJYCbxjhS4tO6IImKMZVG6oAJ7z1v2CbOq2"}
+        ],
+        "NE6res": [
+            {"city": "Recommendation #1: New York", "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQWz3mfrE0TpNrF-Y6aeZ6cPkBAvkAVIuE-VOB4ZXZw2z2My5J6PUnSv7VN6tHwTkXT"},
+            {"city": "Recommendation #2: Washington D.C.", "image": "https://images.pexels.com/photos/739047/pexels-photo-739047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #3: Chicago", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Navy_Pier_W.jpg"}
+        ],
+        "NW6res": [
+            {"city": "Recommendation #1: Seattle", "image": "https://images.pexels.com/photos/1796730/pexels-photo-1796730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #2: Portland", "image": "https://images.pexels.com/photos/432361/pexels-photo-432361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #3: Mount Rainier National Park", "image": "https://images.pexels.com/photos/18816012/pexels-photo-18816012/free-photo-of-volcano-cone-of-mount-rainier.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
+        ],
+        "SE1res": [
+            {"city": "Recommendation #1: Charleston", "image": "https://images.pexels.com/photos/13185337/pexels-photo-13185337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #2: Gulf Shores", "image": "https://images.pexels.com/photos/12530472/pexels-photo-12530472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #3: Savannah", "image": "https://images.pexels.com/photos/19694271/pexels-photo-19694271/free-photo-of-river-and-talmadge-memorial-bridge-in-savannah-in-georgia.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
+        ],
+        "SW1res": [
+            {"city": "Recommendation #1: Dallas", "image": "https://images.pexels.com/photos/280193/pexels-photo-280193.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #2: Denver", "image": "https://images.pexels.com/photos/3047493/pexels-photo-3047493.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #3: Austin", "image": "https://images.pexels.com/photos/273204/pexels-photo-273204.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"}
+        ],
+        "SE6res": [
+            {"city": "Recommendation #1: Miami", "image": "https://images.pexels.com/photos/421655/pexels-photo-421655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #2: New Orleans", "image": "https://images.pexels.com/photos/6379409/pexels-photo-6379409.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"},
+            {"city": "Recommendation #3: Orlando", "image": "https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRjC-MZF-kaQPTEZ9RmnEH3CBxvSr4XLYwSmGewDYG7zb1lftMld37XXtr6oJWat4km"}
+        ],
+        "SW6res": [
+            {"city": "Recommendation #1: San Francisco", "image": "https://travel.usnews.com/dims4/USNEWS/df9b4eb/2147483647/resize/600x400%5E%3E/crop/600x400/quality/85/?url=https%3A%2F%2Ftravel.usnews.com%2Fimages%2Fgettyimages-123318669_UboMiEL.jpg"},
+            {"city": "Recommendation #2: Los Angeles", "image": "https://cdn.britannica.com/22/154122-050-B1D0A7FD/Skyline-Los-Angeles-California.jpg"},
+            {"city": "Recommendation #3: San Diego", "image": "https://images.pexels.com/photos/2984347/pexels-photo-2984347.jpeg"}
+        ]
+}
